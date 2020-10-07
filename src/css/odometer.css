@@ -1,0 +1,24 @@
+h1{
+    font-size: 48px;
+    margin: 1% 45%;
+}
+.counter{
+    font-size: 48px;
+    height: 50px;
+    line-height: 50px;
+    margin-left: 40%;
+    text-align: center;
+    width: 25%;
+    border: 3px blue solid;
+    color: palegreen;
+}
+section{
+    margin: 0 0 0 20%;
+}
+section >*{
+    display: inline-block;
+    width: 20%;
+    margin: 0 1%;
+    color: green;
+}
+
